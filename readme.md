@@ -3,7 +3,7 @@ A Laravel package to convert one currency rate to other. <br>
 This package uses [exchangerate.host](exchangerate.host) to convert currency rates.<br>
 
 ## Installation
-`composer required hassanrazadev/exchange-rates`
+`composer require hassanrazadev/exchange-rates`
 
 ## Usage
 **Get latest rates**
