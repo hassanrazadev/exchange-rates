@@ -1,0 +1,21 @@
+{
+    "name": "hassanrazadev/exchange-rates",
+    "description": "A Laravel package to convert one currency to other.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hassan Raza",
+            "email": "hr7886@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "HassanRazaDev\\ExchangeRates\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
