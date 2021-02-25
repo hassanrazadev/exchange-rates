@@ -3,6 +3,13 @@ namespace HassanRazaDev\ExchangeRates;
 
 use GuzzleHttp\Client;
 
+/**
+ * Developed By: Hassan Raza
+ * Website: https://hassanraza.net
+ * Email: HR7886@gmail.com
+ * Class Currency
+ * @package HassanRazaDev\ExchangeRates
+ */
 class Currency {
 
 
