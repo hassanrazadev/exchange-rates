@@ -25,11 +25,13 @@ Currency::convert('USD');
 **Set target currency**
 <br>
 <br>
+
 ```
 Currency::convert('USD', 'PKR');
 ```
 <br>
 <br>
+
 ```
 Currency::convert('USD', ['PKR', 'EUR']);
 ```
@@ -37,6 +39,7 @@ Currency::convert('USD', ['PKR', 'EUR']);
 **Get historical data**
 <br>
 <br>
+
 ```
 Currency::convert('USD', ['PKR', 'EUR'], '2020-02-27');
 ```
